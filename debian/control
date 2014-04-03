@@ -1,0 +1,12 @@
+Source: ros-groovy-baxter-examples
+Section: misc
+Priority: extra
+Maintainer: Rethink Robotics Inc. <rsdk.support@rethinkrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-actionlib, ros-groovy-baxter-core-msgs, ros-groovy-baxter-interface, ros-groovy-catkin, ros-groovy-control-msgs, ros-groovy-cv-bridge, ros-groovy-dynamic-reconfigure, ros-groovy-rospy, ros-groovy-sensor-msgs, ros-groovy-trajectory-msgs
+Homepage: http://www.rethinkrobotics.com/sdk
+Standards-Version: 3.9.2
+
+Package: ros-groovy-baxter-examples
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-actionlib, ros-groovy-baxter-core-msgs, ros-groovy-baxter-interface, ros-groovy-control-msgs, ros-groovy-cv-bridge, ros-groovy-dynamic-reconfigure, ros-groovy-rospy, ros-groovy-sensor-msgs, ros-groovy-trajectory-msgs
+Description: Example programs for Baxter SDK usage.
