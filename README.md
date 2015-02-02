@@ -1,3 +1,24 @@
+## baxter_examples (hydro) - 1.1.0-0
+
+The packages in the `baxter_examples` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro baxter_examples --edit` on `Mon, 02 Feb 2015 19:56:33 -0000`
+
+The `baxter_examples` package was released.
+
+Version of package(s) in repository `baxter_examples`:
+- upstream repository: https://github.com/RethinkRobotics/baxter_examples.git
+- release repository: https://github.com/RethinkRobotics-release/baxter_examples-release.git
+- rosdistro version: `1.0.0-0`
+- old version: `1.0.0-0`
+- new version: `1.1.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.11`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.0`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.35`
+
+
 ## baxter_examples (hydro) - 1.0.0-0
 
 The packages in the `baxter_examples` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro baxter_examples --edit` on `Mon, 12 May 2014 21:13:35 -0000`
