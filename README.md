@@ -1,3 +1,24 @@
+## baxter_examples (indigo) - 1.2.0-0
+
+The packages in the `baxter_examples` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo baxter_examples --edit` on `Thu, 31 Dec 2015 18:22:54 -0000`
+
+The `baxter_examples` package was released.
+
+Version of package(s) in repository `baxter_examples`:
+- upstream repository: https://github.com/RethinkRobotics/baxter_examples.git
+- release repository: https://github.com/RethinkRobotics-release/baxter_examples-release.git
+- rosdistro version: `1.1.1-0`
+- old version: `1.1.1-0`
+- new version: `1.2.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.9`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## baxter_examples (hydro) - 1.1.1-0
 
 The packages in the `baxter_examples` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro baxter_examples --edit` on `Mon, 18 May 2015 18:30:22 -0000`
